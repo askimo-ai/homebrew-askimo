@@ -10,7 +10,7 @@ class Askimo < Formula
     on_arm do
       version "1.4.4"
       url "https://github.com/askimo-ai/askimo/releases/download/v1.4.4/askimo-darwin-arm64.tar.gz"
-      sha256 "ae65dbdc938f0c48203d344c4e12cad2230e8579d805e0544bdfc3c1bad15fdc"
+      sha256 "f3935858ae73309ae9b631d34ec52fa79abb9706b0d6e1daa729eba66572673d"
     end
   end
 
